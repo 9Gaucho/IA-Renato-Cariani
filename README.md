@@ -17,7 +17,7 @@ Desenvolvido para **Trabalho 1 de Inteligência Artificial** da Faculdade Antoni
 
 ## 🚀 Funcionalidades
 
-- **Conversa com o Cariani trainer em formato de texto**  
+- **Conversa com o Cariani via chat**  
 
 - **Análise de Imagem**  
   Upload de fotos de dieta, treino ou exames para feedback.
