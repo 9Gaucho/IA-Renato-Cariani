@@ -29,7 +29,7 @@ Desenvolvido para **Trabalho 1 de Inteligência Artificial** da Faculdade Antoni
   Upload de dietas, exames ou planejamentos para revisão.
 
 - **Menu de interação com o usuário**  
-  Usuário pode ecolher dentro das opções selecionadas a cima qual delas ele deseja executar.
+  Usuário pode ecolher dentro das opções selecionadas acima qual delas ele deseja executar.
 ---
 
 ## 🧠 IA Utilizada
