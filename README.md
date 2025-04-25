@@ -4,7 +4,7 @@
   <img src="https://www.esportelandia.com.br/app/uploads/2024/04/Renato-Cariani.jpg" alt="Renato Cariani - IA Personal Trainer" width="400"/>
 </p>
 
-Este projeto é uma aplicação de Inteligência Artificial que simula um personal trainer com a personalidade do **Renato Cariani**. A IA interage com o usuário via texto e também é capaz de analisar imagens, vídeos e PDFs relacionados a treino, dieta e saúde. Tudo com foco em motivação, disciplina e evolução pessoal.
+Este projeto é uma aplicação de Inteligência Artificial que simula um personal trainer com a personalidade do **Renato Cariani**. A IA interage com o usuário via texto, imagens, vídeos e PDFs relacionados a treino, dieta e saúde. Tudo com foco em motivação, disciplina e evolução pessoal.
 
 
 ---
